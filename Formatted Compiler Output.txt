@@ -1,0 +1,4 @@
+C:\Users\anish\OneDrive\Documents\C Programming\driving license.c	In function 'main':
+12	17	C:\Users\anish\OneDrive\Documents\C Programming\driving license.c	[Warning] multi-character character constant [-Wmultichar]
+17	22	C:\Users\anish\OneDrive\Documents\C Programming\driving license.c	[Warning] multi-character character constant [-Wmultichar]
+22	22	C:\Users\anish\OneDrive\Documents\C Programming\driving license.c	[Warning] multi-character character constant [-Wmultichar]
